@@ -1,4 +1,4 @@
-My Rolodex Hash Table
+# My Rolodex Hash Table
 
 MyRolodex is a simplified, in-memory Rolodex implementation in C++. It is designed to store and manage a set of contacts, where each contact is represented by a person's name and their address information.
 
