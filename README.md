@@ -23,3 +23,7 @@ The MyRolodex class is the main class of the project. It has the following publi
 ## Demo
 
 ![](./demo.gif)
+
+## Contributor
+
+Erik Williams
